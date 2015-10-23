@@ -60,7 +60,11 @@ Ninite can install the following runtimes so I select these too. There's less ch
 ##Configuration
 
 - Disable Internet Explorer and/or Microsoft Edge
+- Partition drives and create Linux boot partition (if applicable)
 - Configure paging file
-- Set power options
-- Configure VPN profile for work
+- Set power options and disable random waking from sleep
+- Configure VPN profile for work (if applicable)
 - Set wallpaper
+- Install software
+- Set Steam library
+- Set Steam games off downloading
