@@ -51,7 +51,6 @@ For fun and stuff.
 - TeamViewer
 - Firefox - backup browser
 - FileZilla
-- Everything - this is one I want to try out
 - WinMerge - trying this one too as a Windows alternative to Kdiff3
 
 ###Runtimes via Ninite
