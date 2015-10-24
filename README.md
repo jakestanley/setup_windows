@@ -19,14 +19,20 @@ Comprehensive list of applications I need to install.
 - [deluge](http://download.deluge-torrent.org/windows/?C=M;O=D) - bittorrent client
 - [TeamSpeak 3](https://www.teamspeak.com/downloads)
 
-###Games
+##Packages
+I use [Chocolatey](https://chocolatey.org/) to install packages on Windows. Install that, then install the following with ```cinst```
+- wget
+- less
+- vim
+
+##Games
 
 For fun and stuff.
 
 - [Factorio](https://www.factorio.com/login) (log in to download)
 - [Minecraft](https://launcher.mojang.com/download/MinecraftInstaller.msi) (.msi link)
 
-###Ninite
+##Ninite
 
 [Ninite](http://www.ninite.com) allows silent installation of many common software packages. I've omitted links for now. Select the following packages:
 
@@ -47,7 +53,7 @@ For fun and stuff.
 - Everything - this is one I want to try out
 - WinMerge - trying this one too as a Windows alternative to Kdiff3
 
-####Runtimes
+###Runtimes via Ninite
 
 Ninite can install the following runtimes so I select these too. There's less chance of chaffing when doing stuff in Windows if you install these ballache dependencies in advance.
 
@@ -57,7 +63,7 @@ Ninite can install the following runtimes so I select these too. There's less ch
 - Adobe Air
 - Shockwave
 
-##Configuration
+##Configuration steps
 
 - Disable Internet Explorer and/or Microsoft Edge
 - Partition drives and create Linux boot partition (if applicable)
