@@ -18,6 +18,7 @@ Comprehensive list of applications I need to install.
 - [VirtualBox](https://www.virtualbox.org/wiki/Downloads) - for VMs
 - [deluge](http://download.deluge-torrent.org/windows/?C=M;O=D) - bittorrent client
 - [TeamSpeak 3](https://www.teamspeak.com/downloads)
+- [SunVox](http://www.warmplace.ru/soft/sunvox/)
 
 ##Packages
 I use [Chocolatey](https://chocolatey.org/) to install packages on Windows. Install that, then install the following with ```cinst```
