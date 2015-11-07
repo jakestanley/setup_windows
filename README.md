@@ -12,7 +12,7 @@ Comprehensive list of applications I need to install.
 - [Notation](http://getnotation.com/)
 - [Grafx2](https://code.google.com/p/grafx2/downloads/list?can=2&q=label%3AOpSys-Windows+label%3ARelease-2.4) - for drawing layered pixel art
 - [IntelliJ IDEA](https://www.jetbrains.com/idea/download/)
-- [Sublime Text](http://www.sublimetext.com/3)
+- [Atom](https://atom.io/)
 - [Gyazo](https://gyazo.com/download?dl=now) - for quick sharing screenshots
 - [f.lux](https://justgetflux.com/dlwin.html) - easy on the eyes
 - [VirtualBox](https://www.virtualbox.org/wiki/Downloads) - for VMs
@@ -20,9 +20,14 @@ Comprehensive list of applications I need to install.
 - [TeamSpeak 3](https://www.teamspeak.com/downloads)
 - [SunVox](http://www.warmplace.ru/soft/sunvox/)
 
+###Development
+
+- [node.js](https://nodejs.org/en/) which includes npm
+
 ##Packages
 I use [Chocolatey](https://chocolatey.org/) to install packages on Windows. Install that, then install the following with ```cinst```
 - wget
+- git
 - less
 - vim
 
@@ -65,6 +70,7 @@ Ninite can install the following runtimes so I select these too. There's less ch
 
 ##Configuration steps
 
+- My 'dotfiles' repository now has a batch script for linking files. Run this from the dotfiles directory
 - Disable Internet Explorer and/or Microsoft Edge
 - Partition drives and create Linux boot partition (if applicable)
 - Configure paging file
