@@ -6,23 +6,25 @@ Direct download links are provided where possible.
 
 ##Applications
 
-Comprehensive list of applications I need to install.
+Comprehensive list of stuff I need to install.
 
-- [GitHub for Windows](https://desktop.github.com/)
 - [Notation](http://getnotation.com/)
 - [Grafx2](https://code.google.com/p/grafx2/downloads/list?can=2&q=label%3AOpSys-Windows+label%3ARelease-2.4) - for drawing layered pixel art
+- [Blender](https://www.blender.org/download/) - for 3D modelling
 - [IntelliJ IDEA](https://www.jetbrains.com/idea/download/)
-- [Atom](https://atom.io/)
+- [Sublime Text 3](http://www.sublimetext.com/3)
 - [Gyazo](https://gyazo.com/download?dl=now) - for quick sharing screenshots
 - [f.lux](https://justgetflux.com/dlwin.html) - easy on the eyes
 - [VirtualBox](https://www.virtualbox.org/wiki/Downloads) - for VMs
 - [deluge](http://download.deluge-torrent.org/windows/?C=M;O=D) - bittorrent client
-- [TeamSpeak 3](https://www.teamspeak.com/downloads)
+- [Mumble](http://wiki.mumble.info/wiki/Main_Page#Download_Mumble) - a VoIP client
 - [SunVox](http://www.warmplace.ru/soft/sunvox/)
+- [Ubuntu Mono font](http://font.ubuntu.com/) - for programming
+- [SourceTree](https://www.sourcetreeapp.com/download/) by Atlassian
 
-###Development
-
-- [node.js](https://nodejs.org/en/) which includes npm
+###Soon to be retired
+- [TeamSpeak 3](https://www.teamspeak.com/downloads) - soon to be retired in favour of Mumble, which is secure and open source
+- [GitHub for Windows](https://desktop.github.com/) - it keeps failing me, and SourceTree is better
 
 ##Packages
 I use [Chocolatey](https://chocolatey.org/) to install packages on Windows. Install that, then install the following with ```cinst```
