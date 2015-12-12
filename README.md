@@ -20,7 +20,7 @@ Comprehensive list of stuff I need to install.
 - [Mumble](http://wiki.mumble.info/wiki/Main_Page#Download_Mumble) - a VoIP client
 - [SunVox](http://www.warmplace.ru/soft/sunvox/)
 - [Ubuntu Mono font](http://font.ubuntu.com/) - for programming
-- [SourceTree](https://www.sourcetreeapp.com/download/) by Atlassian
+- [SourceTree](https://www.sourcetreeapp.com/download/) - Git client by Atlassian
 
 ###Soon to be retired
 - [TeamSpeak 3](https://www.teamspeak.com/downloads) - soon to be retired in favour of Mumble, which is secure and open source
