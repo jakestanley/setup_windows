@@ -1,37 +1,77 @@
 #Windows
 
-This repository contains information and instructions on my standard Windows configuration. This is a comprehensive guide to setting up everything I could possibly need in a Windows environment.
+This repository contains information and instructions on my standard Windows configuration. This is a comprehensive guide to setting up everything I could possibly need in a given Windows environment.
 
 Direct download links are provided where possible.
 
 ##Applications
 
-Comprehensive list of stuff I need to install.
+These applications need to be installed manually.
 
-- [Notation](http://getnotation.com/)
-- [Grafx2](https://code.google.com/p/grafx2/downloads/list?can=2&q=label%3AOpSys-Windows+label%3ARelease-2.4) - for drawing layered pixel art
-- [Blender](https://www.blender.org/download/) - for 3D modelling
-- [IntelliJ IDEA](https://www.jetbrains.com/idea/download/)
-- [Sublime Text 3](http://www.sublimetext.com/3)
-- [Gyazo](https://gyazo.com/download?dl=now) - for quick sharing screenshots
-- [f.lux](https://justgetflux.com/dlwin.html) - easy on the eyes
-- [VirtualBox](https://www.virtualbox.org/wiki/Downloads) - for VMs
-- [deluge](http://download.deluge-torrent.org/windows/?C=M;O=D) - bittorrent client
-- [Mumble](http://wiki.mumble.info/wiki/Main_Page#Download_Mumble) - a VoIP client
-- [SunVox](http://www.warmplace.ru/soft/sunvox/)
-- [Ubuntu Mono font](http://font.ubuntu.com/) - for programming
-- [SourceTree](https://www.sourcetreeapp.com/download/) - Git client by Atlassian
+- [Chocolatey](https://chocolatey.org/) for nearly painless package management
+- [Notation](http://getnotation.com/) for synchronising notes with Simplenote
 
-###Soon to be retired
-- [TeamSpeak 3](https://www.teamspeak.com/downloads) - soon to be retired in favour of Mumble, which is secure and open source
-- [GitHub for Windows](https://desktop.github.com/) - it keeps failing me, and SourceTree is better
+### Home
+- [SunVox](http://www.warmplace.ru/soft/sunvox/) for making wacky modtracker-esque music
+- [Grafx2](https://code.google.com/p/grafx2/downloads/list?can=2&q=label%3AOpSys-Windows+label%3ARelease-2.4) for drawing layered pixel art
+
+### Work
+- [SenchaCmd 4.0.5](https://cdn.sencha.com/cmd/4.0.5.87/SenchaCmd-4.0.5.87-windows.exe.zip) for building ExtJS web apps at work. *Requires 
 
 ##Packages
-I use [Chocolatey](https://chocolatey.org/) to install packages on Windows. Install that, then install the following with ```cinst```
-- wget
-- git
-- less
-- vim
+I now use [Chocolatey](https://chocolatey.org/) to install most of my packages on Windows. There are three scripts in this repository for installing environment pertinent software packages.
+
+### install-general.bat
+- *less*
+- *googlechrome* - default browser
+- *maven* - java dependency management
+- *jdk* - x64 JDK (includes JRE)
+- *sublimetext3* 
+- *sublimetext3.packagecontrol* 
+- *ubuntu.font* - Ubuntu font family package for use in Sublime Text
+- *flashplayerplugin* - to make it slightly easier to browse shitty parts of the internet
+- *7zip*
+- *sourcetree* - great git client
+- *firefox* - backup browser
+- *filezilla* 
+- *silverlight* 
+- *wget* 
+- *intellijidea-community* - i am so happy that there is a package for this
+- *vim* 
+- *putty* 
+- *libreoffice* 
+- *dotnet4.5* 
+- *adobeshockwaveplayer* - another dated web technology
+- *dropbox* 
+- *virtualbox* 
+- *svn* 
+- *adobeair* 
+- *thunderbird* - for doing emails
+- *magicdisc* - for mounting iso files
+- *python* 
+- *1password* 
+- *gyazo* 
+- *f.lux* 
+- *deluge* - torrents
+
+### install-home.bat
+- *steam*
+- *cccp*
+- *mpc-hc*
+- *paint.net*
+- *blender*
+- *teamspeak*
+- *mumble*
+- *unity*
+- *youtube-dl*
+
+### install-work.bat
+- *tomcat* 
+- *mysql.workbench*
+- *kdiff3* 
+- *slack* 
+- *ruby* - for Sencha CMD)
+- *jdk (x86)* - because Eclipse/STS is a shit
 
 ##Games
 
@@ -40,11 +80,26 @@ For fun and stuff.
 - [Factorio](https://www.factorio.com/login) (log in to download)
 - [Minecraft](https://launcher.mojang.com/download/MinecraftInstaller.msi) (.msi link)
 
+##Configuration steps
+
+- My 'dotfiles' repository now has a batch script for linking files. Run this from the dotfiles directory
+- Disable Internet Explorer and/or Microsoft Edge
+- Partition drives and create Linux boot partition (if applicable)
+- Configure paging file
+- Set power options and disable random waking from sleep
+- Configure VPN profile for work (if applicable)
+- Set wallpaper
+- Install software
+- Set Steam library
+- Set Steam games off downloading
+- Run Chocolatey scripts
+
 ##Ninite
+
+*DEPRECATED. CURRENTLY A FAILSAFE FOR CHOCOLATEY PACKAGES THAT FAIL TO INSTALL*
 
 [Ninite](http://www.ninite.com) allows silent installation of many common software packages. I've omitted links for now. Select the following packages:
 
-- Chrome - main browser
 - CCCP (Includes MPC. Trying this instead of VLC)
 - PuTTY
 - 7-Zip - WinRAR without the guilt
@@ -70,15 +125,5 @@ Ninite can install the following runtimes so I select these too. There's less ch
 - Adobe Air
 - Shockwave
 
-##Configuration steps
-
-- My 'dotfiles' repository now has a batch script for linking files. Run this from the dotfiles directory
-- Disable Internet Explorer and/or Microsoft Edge
-- Partition drives and create Linux boot partition (if applicable)
-- Configure paging file
-- Set power options and disable random waking from sleep
-- Configure VPN profile for work (if applicable)
-- Set wallpaper
-- Install software
-- Set Steam library
-- Set Steam games off downloading
+## Retired packages
+- [GitHub for Windows](https://desktop.github.com/) - it keeps failing me, is severely limited, and SourceTree is better and does way more
