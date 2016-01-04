@@ -16,62 +16,62 @@ These applications need to be installed manually.
 - [Grafx2](https://code.google.com/p/grafx2/downloads/list?can=2&q=label%3AOpSys-Windows+label%3ARelease-2.4) for drawing layered pixel art
 
 ### Work
-- [SenchaCmd 4.0.5](https://cdn.sencha.com/cmd/4.0.5.87/SenchaCmd-4.0.5.87-windows.exe.zip) for building ExtJS web apps at work. *Requires 
+- [SenchaCmd 4.0.5](https://cdn.sencha.com/cmd/4.0.5.87/SenchaCmd-4.0.5.87-windows.exe.zip) for building ExtJS web apps at work. **Requires work Chocolately script to have been run as that installs Ruby**
 
 ##Packages
 I now use [Chocolatey](https://chocolatey.org/) to install most of my packages on Windows. There are three scripts in this repository for installing environment pertinent software packages.
 
 ### install-general.bat
-- *less*
-- *googlechrome* - default browser
-- *maven* - java dependency management
-- *jdk* - x64 JDK (includes JRE)
-- *sublimetext3* 
-- *sublimetext3.packagecontrol* 
-- *ubuntu.font* - Ubuntu font family package for use in Sublime Text
-- *flashplayerplugin* - to make it slightly easier to browse shitty parts of the internet
-- *7zip*
-- *sourcetree* - great git client
-- *firefox* - backup browser
-- *filezilla* 
-- *silverlight* 
-- *wget* 
-- *intellijidea-community* - i am so happy that there is a package for this
-- *vim* 
-- *putty* 
-- *libreoffice* 
-- *dotnet4.5* 
-- *adobeshockwaveplayer* - another dated web technology
-- *dropbox* 
-- *virtualbox* 
-- *svn* 
-- *adobeair* 
-- *thunderbird* - for doing emails
-- *magicdisc* - for mounting iso files
-- *python* 
-- *1password* 
-- *gyazo* 
-- *f.lux* 
-- *deluge* - torrents
+- **less**
+- **googlechrome** - default browser
+- **maven** - java dependency management
+- **jdk** - x64 JDK (includes JRE)
+- **sublimetext3** 
+- **sublimetext3.packagecontrol** 
+- **ubuntu.font** - Ubuntu font family package for use in Sublime Text
+- **flashplayerplugin** - to make it slightly easier to browse shitty parts of the internet
+- **7zip**
+- **sourcetree** - great git client
+- **firefox** - backup browser
+- **filezilla** 
+- **silverlight** 
+- **wget** 
+- **intellijidea-community** - i am so happy that there is a package for this
+- **vim** 
+- **putty** 
+- **libreoffice** 
+- **dotnet4.5** 
+- **adobeshockwaveplayer** - another dated web technology
+- **dropbox** 
+- **virtualbox** 
+- **svn** 
+- **adobeair** 
+- **thunderbird** - for doing emails
+- **magicdisc** - for mounting iso files
+- **python** 
+- **1password** 
+- **gyazo** 
+- **f.lux** 
+- **deluge** - torrents
 
 ### install-home.bat
-- *steam*
-- *cccp*
-- *mpc-hc*
-- *paint.net*
-- *blender*
-- *teamspeak*
-- *mumble*
-- *unity*
-- *youtube-dl*
+- **steam**
+- **cccp**
+- **mpc-hc**
+- **paint.net**
+- **blender**
+- **teamspeak**
+- **mumble**
+- **unity**
+- **youtube-dl**
 
 ### install-work.bat
-- *tomcat* 
-- *mysql.workbench*
-- *kdiff3* 
-- *slack* 
-- *ruby* - for Sencha CMD)
-- *jdk (x86)* - because Eclipse/STS is a shit
+- **tomcat** 
+- **mysql.workbench**
+- **kdiff3** 
+- **slack** 
+- **ruby** - for Sencha CMD)
+- **jdk (x86)** - because Eclipse/STS is a shit
 
 ##Games
 
@@ -96,7 +96,7 @@ For fun and stuff.
 
 ##Ninite
 
-*DEPRECATED. CURRENTLY A FAILSAFE FOR CHOCOLATEY PACKAGES THAT FAIL TO INSTALL*
+**DEPRECATED. CURRENTLY A FAILSAFE FOR CHOCOLATEY PACKAGES THAT FAIL TO INSTALL**
 
 [Ninite](http://www.ninite.com) allows silent installation of many common software packages. I've omitted links for now. Select the following packages:
 
