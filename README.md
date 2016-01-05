@@ -17,6 +17,7 @@ These applications need to be installed manually.
 
 ### Work
 - [SenchaCmd 4.0.5](https://cdn.sencha.com/cmd/4.0.5.87/SenchaCmd-4.0.5.87-windows.exe.zip) for building ExtJS web apps at work. **Requires work Chocolately script to have been run as that installs Ruby**
+- [SmartSVN](http://www.smartsvn.com/)
 
 ##Packages
 I now use [Chocolatey](https://chocolatey.org/) to install most of my packages on Windows. There are three scripts in this repository for installing environment pertinent software packages.
