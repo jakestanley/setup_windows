@@ -91,6 +91,7 @@ I now use [Chocolatey](https://chocolatey.org/) to install most of my software o
 ##Configuration steps (needs work)
 
 - My 'dotfiles' repository now has a batch script for linking files. Run this from the dotfiles directory
+- Run Chocolatey scripts
 - Disable Internet Explorer and/or Microsoft Edge
 - Partition drives and create Linux boot partition (if applicable)
 - Configure paging file
@@ -100,11 +101,12 @@ I now use [Chocolatey](https://chocolatey.org/) to install most of my software o
 - Install software
 - Set Steam library
 - Set Steam games off downloading
-- Run Chocolatey scripts
+
+#Deprecated
+
+**DEPRECATED. FOR FAILSAFE USE ONLY**
 
 ##Ninite
-
-**DEPRECATED. CURRENTLY A FAILSAFE FOR CHOCOLATEY PACKAGES THAT FAIL TO INSTALL**
 
 [Ninite](http://www.ninite.com) allows silent installation of many common software packages. I've omitted links for now. Select the following packages:
 
