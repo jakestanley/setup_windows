@@ -20,59 +20,60 @@ These applications need to be installed manually.
 - [SmartSVN](http://www.smartsvn.com/)
 
 ##Packages
-I now use [Chocolatey](https://chocolatey.org/) to install most of my packages on Windows. There are three scripts in this repository for installing environment pertinent software packages.
+I now use [Chocolatey](https://chocolatey.org/) to install most of my software on Windows. There are three scripts in this repository for installing environment pertinent software packages.
 
 ### install-general.bat
-- **less**
-- **googlechrome** - default browser
-- **maven** - java dependency management
-- **jdk** - x64 JDK (includes JRE)
-- **sublimetext3** 
-- **sublimetext3.packagecontrol** 
-- **ubuntu.font** - Ubuntu font family package for use in Sublime Text
-- **flashplayerplugin** - to make it slightly easier to browse shitty parts of the internet
-- **7zip**
-- **sourcetree** - great git client
-- **firefox** - backup browser
-- **filezilla** 
-- **silverlight** 
-- **wget** 
-- **intellijidea-community** - i am so happy that there is a package for this
-- **vim** 
-- **putty** 
-- **libreoffice** 
-- **dotnet4.5** 
-- **adobeshockwaveplayer** - another dated web technology
-- **dropbox** 
-- **virtualbox** 
-- **svn** 
-- **adobeair** 
-- **thunderbird** - for doing emails
-- **magicdisc** - for mounting iso files
-- **python** 
-- **1password** 
-- **gyazo** 
-- **f.lux** 
-- **deluge** - torrents
+- less
+- googlechrome - default browser
+- maven - java dependency management
+- jdk - x64 JDK (includes JRE)
+- sublimetext3 
+- sublimetext3.packagecontrol 
+- ubuntu.font - Ubuntu font family package for use in Sublime Text
+- flashplayerplugin - to make it slightly easier to browse shitty parts of the internet
+- 7zip
+- sourcetree - great git client
+- firefox - backup browser
+- filezilla 
+- silverlight 
+- wget 
+- intellijidea-community - i am so happy that there is a package for this
+- vim 
+- putty 
+- libreoffice 
+- dotnet4.5 
+- adobereader
+- adobeshockwaveplayer - another dated web technology
+- dropbox 
+- virtualbox 
+- svn 
+- adobeair 
+- thunderbird - for doing emails
+- magicdisc - for mounting iso files
+- python 
+- 1password 
+- gyazo 
+- f.lux 
+- deluge - torrents
 
 ### install-home.bat
-- **steam**
-- **cccp**
-- **mpc-hc**
-- **paint.net**
-- **blender**
-- **teamspeak**
-- **mumble**
-- **unity**
-- **youtube-dl**
+- steam
+- cccp
+- mpc-hc
+- paint.net
+- blender
+- teamspeak
+- mumble
+- unity
+- youtube-dl
 
 ### install-work.bat
-- **tomcat** 
-- **mysql.workbench**
-- **kdiff3** 
-- **slack** 
-- **ruby** - for Sencha CMD)
-- **jdk (x86)** - because Eclipse/STS is a shit
+- tomcat 
+- mysql.workbench
+- kdiff3 
+- slack 
+- ruby - for Sencha CMD)
+- jdk (x86) - because Eclipse/STS is a shit
 
 ##Games
 
