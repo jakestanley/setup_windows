@@ -19,6 +19,12 @@ These applications need to be installed manually.
 - [SenchaCmd 4.0.5](https://cdn.sencha.com/cmd/4.0.5.87/SenchaCmd-4.0.5.87-windows.exe.zip) for building ExtJS web apps at work. **Requires work Chocolately script to have been run as that installs Ruby**
 - [SmartSVN](http://www.smartsvn.com/)
 
+##Ninite
+Although use of Ninite is mostly deprecated by Chocolatey, it's still better at installing a handful of applications as Chocolatey support is a bit patchy for things like iTunes and Spotify. Until these issues are resolved, I'll be using Ninite for the following software.
+
+- iTunes - I'll need to import my iTunes library
+- Spotify
+
 ##Packages
 I now use [Chocolatey](https://chocolatey.org/) to install most of my software on Windows. There are three scripts in this repository for installing environment pertinent software packages.
 
