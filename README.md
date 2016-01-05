@@ -19,6 +19,13 @@ These applications need to be installed manually.
 - [SenchaCmd 4.0.5](https://cdn.sencha.com/cmd/4.0.5.87/SenchaCmd-4.0.5.87-windows.exe.zip) for building ExtJS web apps at work. **Requires work Chocolately script to have been run as that installs Ruby**
 - [SmartSVN](http://www.smartsvn.com/)
 
+###Games
+
+For fun and stuff.
+
+- [Factorio](https://www.factorio.com/login) (log in to download)
+- [Minecraft](https://launcher.mojang.com/download/MinecraftInstaller.msi) (.msi link)
+
 ##Ninite
 Although use of Ninite is mostly deprecated by Chocolatey, it's still better at installing a handful of applications as Chocolatey support is a bit patchy for things like iTunes and Spotify. Until these issues are resolved, I'll be using Ninite for the following software.
 
@@ -81,14 +88,7 @@ I now use [Chocolatey](https://chocolatey.org/) to install most of my software o
 - ruby - for Sencha CMD)
 - jdk (x86) - because Eclipse/STS is a shit
 
-##Games
-
-For fun and stuff.
-
-- [Factorio](https://www.factorio.com/login) (log in to download)
-- [Minecraft](https://launcher.mojang.com/download/MinecraftInstaller.msi) (.msi link)
-
-##Configuration steps
+##Configuration steps (needs work)
 
 - My 'dotfiles' repository now has a batch script for linking files. Run this from the dotfiles directory
 - Disable Internet Explorer and/or Microsoft Edge
