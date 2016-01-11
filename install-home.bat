@@ -1,1 +1,1 @@
-choco install steam cccp mpc-hc paint.net blender teamspeak mumble unity youtube-dl -y
+choco install steam cccp mpc-hc paint.net blender handbrake teamspeak mumble unity youtube-dl -y
