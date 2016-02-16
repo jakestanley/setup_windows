@@ -23,6 +23,7 @@ These applications need to be installed manually.
 ###Games
 - [Factorio](https://www.factorio.com/login) (log in to download)
 - [Minecraft](https://launcher.mojang.com/download/MinecraftInstaller.msi) (.msi link)
+- [Origin](https://www.origin.com/en-gb/download) Steam for EA Games
 
 ##Ninite
 Although use of Ninite is mostly deprecated by Chocolatey, it's still better at installing a handful of applications as Chocolatey support is a bit patchy for things like iTunes and Spotify. Until these issues are resolved, I'll be using Ninite for the following software.
