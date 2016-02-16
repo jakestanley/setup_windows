@@ -10,6 +10,7 @@ These applications need to be installed manually.
 
 - [Chocolatey](https://chocolatey.org/) for nearly painless package management
 - [Notation](http://getnotation.com/) for synchronising notes with Simplenote
+- [Magicdisc](http://www.magiciso.com/tutorials/miso-magicdisc-overview.htm) as the Chocolatey package currently doesn't work. It doesn't install the driver, or something
 
 ### Home
 - [SunVox](http://www.warmplace.ru/soft/sunvox/) for making wacky modtracker-esque music
@@ -20,9 +21,6 @@ These applications need to be installed manually.
 - [SmartSVN](http://www.smartsvn.com/)
 
 ###Games
-
-For fun and stuff.
-
 - [Factorio](https://www.factorio.com/login) (log in to download)
 - [Minecraft](https://launcher.mojang.com/download/MinecraftInstaller.msi) (.msi link)
 
@@ -62,7 +60,6 @@ I now use [Chocolatey](https://chocolatey.org/) to install most of my software o
 - svn 
 - adobeair 
 - thunderbird - for doing emails
-- magicdisc - for mounting iso files
 - python 
 - 1password 
 - gyazo 
