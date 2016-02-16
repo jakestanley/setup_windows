@@ -66,6 +66,7 @@ I now use [Chocolatey](https://chocolatey.org/) to install most of my software o
 - gyazo 
 - f.lux 
 - deluge - torrents
+- btsync - BitTorrent Sync
 
 ### install-home.bat
 - steam
@@ -88,17 +89,25 @@ I now use [Chocolatey](https://chocolatey.org/) to install most of my software o
 
 ##Configuration steps (needs work)
 
-- My 'dotfiles' repository now has a batch script for linking files. Run this from the dotfiles directory
 - Run Chocolatey scripts
-- Disable Internet Explorer and/or Microsoft Edge
-- Partition drives and create Linux boot partition (if applicable)
+- My 'dotfiles' repository now has a batch script for linking files. Run this from the dotfiles directory
+- You might need to reinstall the sublime package control chocolatey package at this point
+- Partition drives (see below)
+- Set up FileHistory on separate drive and restore data if necessary
+- Configure BitTorrent Sync
+- Relocate default "Documents", "Downloads", and "Music" folders to the separate drive
 - Configure paging file
 - Set power options and disable random waking from sleep
 - Configure VPN profile for work (if applicable)
 - Set wallpaper
-- Install software
-- Set Steam library
-- Set Steam games off downloading
+- Install manual software
+- Set Steam libraries
+
+###Partitioning drives
+
+I've had numerous problems with Windows in the past and I now try to keep the OS partition containing as little user created data as possible, to reduce the amount of faff when I inevitably reinstall. The following partition scheme is what I aim to use.
+- 100GB (minimum) operating system and applications drive. consider using this for games too, as they can be redownloaded
+- Separate partition - ideally on a different physical drive - for documents and other data
 
 #Deprecated
 
