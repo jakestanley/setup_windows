@@ -4,15 +4,20 @@ This repository contains information and instructions on my standard Windows con
 
 Direct download links are provided where possible.
 
-##Applications
+##Manual installation required
 
-These applications need to be installed manually.
+These applications need to be installed manually as they are not available or are unstable in the chocolatey repositories.
+
+### General
 
 - [Chocolatey](https://chocolatey.org/) for nearly painless package management
 - [Notation](http://getnotation.com/) for synchronising notes with Simplenote
-- [Magicdisc](http://www.magiciso.com/tutorials/miso-magicdisc-overview.htm) as the Chocolatey package currently doesn't work. It doesn't install the driver, or something
+- [Magicdisc](http://www.magiciso.com/tutorials/miso-magicdisc-overview.htm) as the Chocolatey package currently doesn't work. It doesn't install the driver or something
+- [Winamp 5.666](filehippo.com/download_winamp) because it's lighter than iTunes and can play FLACs
+- [Spotify](https://www.spotify.com/download/)
 
 ### Home
+- [iTunes](http://itunes.com/) for use at home because that's where I sync my iThings *rms term used ironically*
 - [SunVox](http://www.warmplace.ru/soft/sunvox/) for making wacky modtracker-esque music
 - [Grafx2](https://code.google.com/p/grafx2/downloads/list?can=2&q=label%3AOpSys-Windows+label%3ARelease-2.4) for drawing layered pixel art
 
@@ -24,12 +29,6 @@ These applications need to be installed manually.
 - [Factorio](https://www.factorio.com/login) (log in to download)
 - [Minecraft](https://launcher.mojang.com/download/MinecraftInstaller.msi) (.msi link)
 - [Origin](https://www.origin.com/en-gb/download) Steam for EA Games
-
-##Ninite
-Although use of Ninite is mostly deprecated by Chocolatey, it's still better at installing a handful of applications as Chocolatey support is a bit patchy for things like iTunes and Spotify. Until these issues are resolved, I'll be using Ninite for the following software.
-
-- iTunes - I'll need to import my iTunes library
-- Spotify
 
 ##Packages
 I now use [Chocolatey](https://chocolatey.org/) to install most of my software on Windows. There are three scripts in this repository for installing environment pertinent software packages.
@@ -94,7 +93,7 @@ I now use [Chocolatey](https://chocolatey.org/) to install most of my software o
 - You might need to reinstall the sublime package control chocolatey package at this point
 - Partition drives (see below)
 - Set up FileHistory on separate drive and restore data if necessary
-- Configure BitTorrent Sync
+- Configure BitTorrent Sync - see note on simplenote.com
 - Relocate default "Documents", "Downloads", and "Music" folders to the separate drive
 - Configure paging file
 - Set power options and disable random waking from sleep
