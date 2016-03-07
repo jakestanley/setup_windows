@@ -33,7 +33,7 @@ These applications need to be installed manually as they are not available or ar
 ##Packages
 I now use [Chocolatey](https://chocolatey.org/) to install most of my software on Windows. There are three scripts in this repository for installing environment pertinent software packages.
 
-### install-general.bat
+### install-general.bat // TODO update
 - less
 - googlechrome - default browser
 - maven - java dependency management
@@ -57,7 +57,6 @@ I now use [Chocolatey](https://chocolatey.org/) to install most of my software o
 - adobeshockwaveplayer - another dated web technology
 - dropbox 
 - virtualbox 
-- svn 
 - adobeair 
 - thunderbird - for doing emails
 - python 
@@ -73,16 +72,20 @@ I now use [Chocolatey](https://chocolatey.org/) to install most of my software o
 - mpc-hc
 - paint.net
 - blender
+- handbrake - for video encoding
 - teamspeak
 - mumble
 - unity
 - youtube-dl
 
-### install-work.bat
+### install-work.bat // TODO update
 - tomcat 
+- mysql
+- mysql.utilities
 - mysql.workbench
 - kdiff3 
 - slack 
+- svn
 - ruby - for Sencha CMD)
 - jdk (x86) - because Eclipse/STS is a shit
 
