@@ -64,6 +64,8 @@ I now use [Chocolatey](https://chocolatey.org/) to install most of my software o
 - deluge - torrents
 - cygwin
 - btsync - BitTorrent Sync
+- winmerge
+- pandoc
 
 ### install-home.bat
 - steam
