@@ -1,10 +1,10 @@
-#Windows
+# Windows
 
 This repository contains information and instructions on my standard Windows configuration. This is a comprehensive guide to setting up everything I could possibly need in a given Windows environment.
 
 Direct download links are provided where possible.
 
-##Manual installation required
+## Manual installation required
 
 These applications need to be installed manually as they are not available or are unstable in the chocolatey repositories.
 
@@ -13,24 +13,22 @@ These applications need to be installed manually as they are not available or ar
 - [Chocolatey](https://chocolatey.org/) for nearly painless package management
 - [Notation](http://getnotation.com/) for synchronising notes with Simplenote
 - [Magicdisc](http://www.magiciso.com/tutorials/miso-magicdisc-overview.htm) as the Chocolatey package currently doesn't work. It doesn't install the driver or something
-- [Winamp 5.666](filehippo.com/download_winamp) because it's lighter than iTunes and can play FLACs
+- [iTunes](http://itunes.com/) for use at home because that's where I sync my iThings *rms term used ironically*
 - [Spotify](https://www.spotify.com/download/)
 
 ### Home
-- [iTunes](http://itunes.com/) for use at home because that's where I sync my iThings *rms term used ironically*
 - [SunVox](http://www.warmplace.ru/soft/sunvox/) for making wacky modtracker-esque music
-- [Grafx2](https://code.google.com/p/grafx2/downloads/list?can=2&q=label%3AOpSys-Windows+label%3ARelease-2.4) for drawing layered pixel art
+- [tagspaces](http://www.tagspaces.org/downloads/) for keeping tabs on folder structures - trialling this for now
 
 ### Work
 - [SenchaCmd 4.0.5](https://cdn.sencha.com/cmd/4.0.5.87/SenchaCmd-4.0.5.87-windows.exe.zip) for building ExtJS web apps at work. **Requires work Chocolately script to have been run as that installs Ruby**
-- [SmartSVN](http://www.smartsvn.com/)
 
-###Games
-- [Factorio](https://www.factorio.com/login) (log in to download)
+### Games
+- [Factorio](https://www.factorio.com/login) (log in to download) - now on Steam
 - [Minecraft](https://launcher.mojang.com/download/MinecraftInstaller.msi) (.msi link)
 - [Origin](https://www.origin.com/en-gb/download) Steam for EA Games
 
-##Packages
+## Packages
 I now use [Chocolatey](https://chocolatey.org/) to install most of my software on Windows. There are three scripts in this repository for installing environment pertinent software packages.
 
 ### install-general.bat // TODO update
@@ -38,32 +36,33 @@ I now use [Chocolatey](https://chocolatey.org/) to install most of my software o
 - googlechrome - default browser
 - maven - java dependency management
 - jdk - x64 JDK (includes JRE)
-- sublimetext3 
-- sublimetext3.packagecontrol 
+- sublimetext3
+- sublimetext3.packagecontrol
 - ubuntu.font - Ubuntu font family package for use in Sublime Text
 - flashplayerplugin - to make it slightly easier to browse shitty parts of the internet
 - 7zip
 - sourcetree - great git client
 - firefox - backup browser
-- filezilla 
-- silverlight 
-- wget 
+- filezilla
+- silverlight
+- wget
 - intellijidea-community - i am so happy that there is a package for this
-- vim 
-- putty 
-- libreoffice 
-- dotnet4.5 
+- vim
+- putty
+- libreoffice
+- dotnet4.5
 - adobereader
 - adobeshockwaveplayer - another dated web technology
-- dropbox 
-- virtualbox 
-- adobeair 
+- dropbox
+- virtualbox
+- adobeair
 - thunderbird - for doing emails
-- python 
-- 1password 
-- gyazo 
-- f.lux 
+- python
+- 1password
+- gyazo
+- f.lux
 - deluge - torrents
+- cygwin
 - btsync - BitTorrent Sync
 
 ### install-home.bat
@@ -79,15 +78,16 @@ I now use [Chocolatey](https://chocolatey.org/) to install most of my software o
 - youtube-dl
 
 ### install-work.bat // TODO update
-- tomcat 
+- tomcat
 - mysql
 - mysql.utilities
 - mysql.workbench
-- kdiff3 
-- slack 
+- kdiff3
+- slack
 - svn
 - ruby - for Sencha CMD)
-- jdk (x86) - because Eclipse/STS is a shit
+- eclipse - Chocolatey should install the appropriate architecture version
+- jdk (x86) - just in case the 32-bit JDK is needed for Eclipse or Spring, etc
 
 ##Configuration steps (needs work)
 
@@ -143,6 +143,3 @@ Ninite can install the following runtimes so I select these too. There's less ch
 - Silverlight
 - Adobe Air
 - Shockwave
-
-## Retired packages
-- [GitHub for Windows](https://desktop.github.com/) - it keeps failing me, is severely limited, and SourceTree is better and does way more
