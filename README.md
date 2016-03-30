@@ -78,6 +78,7 @@ I now use [Chocolatey](https://chocolatey.org/) to install most of my software o
 - mumble
 - unity
 - youtube-dl
+- goggalaxy - Steam-like client for Good Old Games
 
 ### install-work.bat // TODO update
 - tomcat
