@@ -16,6 +16,9 @@ These applications need to be installed manually as they are not available or ar
 - [iTunes](http://itunes.com/) for use at home because that's where I sync my iThings *rms term used ironically*
 - [Spotify](https://www.spotify.com/download/)
 
+#### Python/Python2/PIP
+"pip is already installed if you're using Python 2 >=2.7.9 or Python 3 >=3.4 downloaded from [python.org](http://python.org/), but you'll need to upgrade pip" - https://pip.pypa.io/en/stable/installing/
+
 ### Home
 - [SunVox](http://www.warmplace.ru/soft/sunvox/) for making wacky modtracker-esque music
 - [tagspaces](http://www.tagspaces.org/downloads/) for keeping tabs on folder structures - trialling this for now
@@ -57,7 +60,7 @@ I now use [Chocolatey](https://chocolatey.org/) to install most of my software o
 - virtualbox
 - adobeair
 - thunderbird - for doing emails
-- python
+- python - *temporarily removed. should be replaced with python2 when that decides to work*
 - 1password
 - gyazo
 - f.lux
