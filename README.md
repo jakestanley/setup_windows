@@ -109,11 +109,12 @@ I now use [Chocolatey](https://chocolatey.org/) to install most of my software o
 
 ## Additional configuration steps
 
-- clone dotfiles repository and run `dotfiles.bat`
+- clone [dotfiles](https://github.com/madstanners/dotfiles) repository and run `dotfiles.bat`
 - [disable OneDrive](https://techjourney.net/disable-or-uninstall-onedrive-completely-in-windows-10/)
 - [remove homegroup](http://www.howtogeek.com/howto/27091/how-to-disable-or-enable-the-homegroup-feature-in-windows-7/) - guide is for Windows 7 but also works on 10
 - [remove Windows 10 apps](http://www.howtogeek.com/224798/how-to-uninstall-windows-10s-built-in-apps-and-how-to-reinstall-them/)
 - combine labels on task bar
+- set browser [homepage](https://github.com/madstanners/homepage)
 - remove bullshit tiles from the start menu
 - set Explorer++ as the default file manager
 - You might need to reinstall the sublime package control chocolatey package at this point
