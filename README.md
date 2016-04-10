@@ -1,6 +1,6 @@
 # Windows
 
-This repository contains information and instructions on my standard Windows configuration. This is a comprehensive guide to setting up everything I could possibly need in a given Windows environment.
+This repository contains information and instructions on my standard Windows configuration. This is a comprehensive guide to setting up everything I could possibly need in a given Windows environment. Configuration is for Windows 10 - 10th April, 2016.
 
 Direct download links are provided where possible.
 
@@ -38,7 +38,7 @@ I now use [Chocolatey](https://chocolatey.org/) to install most of my software o
 - less
 - googlechrome - default browser
 - maven - java dependency management
-- jdk - x64 JDK (includes JRE)
+- jdk - will install the x86 or x64 version depending on your platform
 - sublimetext3
 - sublimetext3.packagecontrol
 - ubuntu.font - Ubuntu font family package for use in Sublime Text
@@ -70,6 +70,8 @@ I now use [Chocolatey](https://chocolatey.org/) to install most of my software o
 - btsync - BitTorrent Sync
 - winmerge
 - pandoc
+- nodejs
+- explorerplusplus
 
 ### install-home.bat
 - steam
@@ -83,6 +85,7 @@ I now use [Chocolatey](https://chocolatey.org/) to install most of my software o
 - unity
 - youtube-dl
 - goggalaxy - Steam-like client for Good Old Games
+- obs - open broadcaster software
 
 ### install-work.bat // TODO update
 - tomcat
@@ -96,10 +99,15 @@ I now use [Chocolatey](https://chocolatey.org/) to install most of my software o
 - eclipse - Chocolatey should install the appropriate architecture version
 - jdk (x86) - just in case the 32-bit JDK is needed for Eclipse or Spring, etc
 
-##Configuration steps (needs work)
+## Additional configuration steps
 
-- Run Chocolatey scripts
-- My 'dotfiles' repository now has a batch script for linking files. Run this from the dotfiles directory
+- clone dotfiles repository and run `dotfiles.bat`
+- [disable OneDrive](https://techjourney.net/disable-or-uninstall-onedrive-completely-in-windows-10/)
+- [remove homegroup](http://www.howtogeek.com/howto/27091/how-to-disable-or-enable-the-homegroup-feature-in-windows-7/) - guide is for Windows 7 but also works on 10
+- [remove Windows 10 apps](http://www.howtogeek.com/224798/how-to-uninstall-windows-10s-built-in-apps-and-how-to-reinstall-them/)
+- combine labels on task bar
+- remove bullshit tiles from the start menu
+- set Explorer++ as the default file manager
 - You might need to reinstall the sublime package control chocolatey package at this point
 - Partition drives (see below)
 - Set up FileHistory on separate drive and restore data if necessary
@@ -108,7 +116,6 @@ I now use [Chocolatey](https://chocolatey.org/) to install most of my software o
 - Configure paging file
 - Set power options and disable random waking from sleep
 - Configure VPN profile for work (if applicable)
-- Set wallpaper
 - Install manual software
 - Set Steam libraries
 
@@ -117,36 +124,3 @@ I now use [Chocolatey](https://chocolatey.org/) to install most of my software o
 I've had numerous problems with Windows in the past and I now try to keep the OS partition containing as little user created data as possible, to reduce the amount of faff when I inevitably reinstall. The following partition scheme is what I aim to use.
 - 100GB (minimum) operating system and applications drive. consider using this for games too, as they can be redownloaded
 - Separate partition - ideally on a different physical drive - for documents and other data
-
-#Deprecated
-
-**DEPRECATED. FOR FAILSAFE USE ONLY**
-
-##Ninite
-
-[Ninite](http://www.ninite.com) allows silent installation of many common software packages. I've omitted links for now. Select the following packages:
-
-- CCCP (Includes MPC. Trying this instead of VLC)
-- PuTTY
-- 7-Zip - WinRAR without the guilt
-- Steam
-- iTunes (I need to import my iTunes library)
-- Spotify
-- Paint.NET - best drawing tool on Windows IMO
-- LibreOffice
-- Adobe Reader
-- Dropbox
-- TeamViewer
-- Firefox - backup browser
-- FileZilla
-- WinMerge - trying this one too as a Windows alternative to Kdiff3
-
-###Runtimes via Ninite
-
-Ninite can install the following runtimes so I select these too. There's less chance of chaffing when doing stuff in Windows if you install these ballache dependencies in advance.
-
-- .NET
-- Java x64 JDK (Includes JRE)
-- Silverlight
-- Adobe Air
-- Shockwave
