@@ -23,6 +23,7 @@ These applications need to be installed manually as they are not available or ar
 - [Magicdisc](http://www.magiciso.com/tutorials/miso-magicdisc-overview.htm) as the Chocolatey package currently doesn't work. It doesn't install the driver or something
 - [iTunes](http://itunes.com/) for use at home because that's where I sync my iThings *rms term used ironically*
 - [Spotify](https://www.spotify.com/download/)
+- [Toggl](https://support.toggl.com/toggl-desktop-for-windows/) - for keeping track of my time spent on projects
 
 #### Python/Python2/PIP
 "pip is already installed if you're using Python 2 >=2.7.9 or Python 3 >=3.4 downloaded from [python.org](http://python.org/), but you'll need to upgrade pip" - https://pip.pypa.io/en/stable/installing/
