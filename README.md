@@ -4,13 +4,21 @@ This repository contains information and instructions on my standard Windows con
 
 Direct download links are provided where possible.
 
+## tl;dr setup
+
+- Configure partitions
+- Install [Chocolatey](https://chocolatey.org/)
+- Run the install scripts starting with `install-general.bat`
+- Install manual installation software
+- Perform "Addition Configuration Steps"
+
 ## Manual installation required
 
 These applications need to be installed manually as they are not available or are unstable in the chocolatey repositories.
 
 ### General
 
-- [Chocolatey](https://chocolatey.org/) for nearly painless package management
+- [Chocolatey](https://chocolatey.org/) for nearly painless package management. i advise you install this first, then run the scripts, then install the other manual stuff.
 - [Notation](http://getnotation.com/) for synchronising notes with Simplenote
 - [Magicdisc](http://www.magiciso.com/tutorials/miso-magicdisc-overview.htm) as the Chocolatey package currently doesn't work. It doesn't install the driver or something
 - [iTunes](http://itunes.com/) for use at home because that's where I sync my iThings *rms term used ironically*
