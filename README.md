@@ -51,6 +51,7 @@ I now use [Chocolatey](https://chocolatey.org/) to install most of my software o
 - wget
 - intellijidea-community - i am so happy that there is a package for this
 - vim
+- git - obviously
 - putty
 - libreoffice
 - dotnet4.5
