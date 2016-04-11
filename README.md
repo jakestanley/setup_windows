@@ -81,6 +81,7 @@ I now use [Chocolatey](https://chocolatey.org/) to install most of my software o
 - pandoc
 - nodejs
 - explorerplusplus
+- googledrive - I can just use my work Google account to keep files in sync
 
 ### install-home.bat
 - steam

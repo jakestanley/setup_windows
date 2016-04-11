@@ -8,7 +8,8 @@ svn ^
 kdiff3 ^
 slack ^
 ruby ^
-eclipse ^ 
+eclipse ^
+googledrive ^
 -y
 
 :: installs the current 32-bit JDK as well
