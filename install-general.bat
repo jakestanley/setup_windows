@@ -34,4 +34,6 @@ winmerge ^
 pandoc ^
 nodejs ^
 explorerplusplus ^
+cccp ^
+mpc-hc ^
 -y

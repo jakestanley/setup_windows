@@ -1,7 +1,5 @@
 choco install ^
 steam ^
-cccp ^
-mpc-hc ^
 paint.net ^
 blender ^
 handbrake ^
