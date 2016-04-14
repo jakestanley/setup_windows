@@ -4,11 +4,12 @@ mysql ^
 mysql.workbench ^
 heidisql ^
 svn ^
-kdiff3 ^
 slack ^
 ruby ^
 eclipse ^
 googledrive ^
+thunderbird ^
+tortoisesvn ^
 -y
 
 :: installs the current 32-bit JDK as well

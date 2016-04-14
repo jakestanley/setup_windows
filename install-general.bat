@@ -5,6 +5,7 @@ maven ^
 jdk ^
 sublimetext3 ^
 sublimetext3.packagecontrol ^
+atom ^
 ubuntu.font ^
 adobereader ^
 flashplayerplugin ^
@@ -17,18 +18,19 @@ wget ^
 intellijidea-community ^
 vim ^
 git ^
+poshgit ^
 putty ^
 libreoffice ^
 dotnet4.5 ^
 adobeshockwaveplayer ^
 virtualbox ^
 adobeair ^
-thunderbird ^
 1password ^
 gyazo ^
 f.lux ^
 deluge ^
 cygwin ^
+cyg-get ^
 btsync ^
 winmerge ^
 pandoc ^
@@ -36,4 +38,9 @@ nodejs ^
 explorerplusplus ^
 cccp ^
 mpc-hc ^
+winrar ^
+conemu ^
+clink ^
+lightshot ^
+autohotkey ^
 -y

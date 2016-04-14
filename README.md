@@ -50,6 +50,7 @@ I now use [Chocolatey](https://chocolatey.org/) to install most of my software o
 - jdk - will install the x86 or x64 version depending on your platform
 - sublimetext3
 - sublimetext3.packagecontrol
+- atom - open source text editor from Github
 - ubuntu.font - Ubuntu font family package for use in Sublime Text
 - flashplayerplugin - to make it slightly easier to browse shitty parts of the internet
 - 7zip
@@ -69,7 +70,6 @@ I now use [Chocolatey](https://chocolatey.org/) to install most of my software o
 - dropbox
 - virtualbox
 - adobeair
-- thunderbird - for doing emails
 - python - *temporarily removed. should be replaced with python2 when that decides to work*
 - 1password
 - gyazo
@@ -81,7 +81,13 @@ I now use [Chocolatey](https://chocolatey.org/) to install most of my software o
 - pandoc
 - nodejs
 - explorerplusplus
-- googledrive - I can just use my work Google account to keep files in sync
+- cyg-get - package manager for cygwin
+- poshgit - fancy git command line thingy
+- winrar - because it's good for those split rar files
+- conemu - all your terminal emulators in one place
+- clink - makes using terminal emulators nicer
+- lightshot - my new favourite screenshot program. // TODO phase out gyazo
+- autohotkey - for macros and disabling caps lock // TODO look into automating more stuff
 
 ### install-home.bat
 - steam
@@ -102,11 +108,13 @@ I now use [Chocolatey](https://chocolatey.org/) to install most of my software o
 - mysql
 - mysql.utilities
 - mysql.workbench
-- kdiff3
 - slack
 - svn
 - ruby - for Sencha CMD)
 - eclipse - Chocolatey should install the appropriate architecture version
+- googledrive - I can just use my work Google account to keep files in sync
+- thunderbird - for doing emails (at work)
+- tortoisesvn
 - jdk (x86) - just in case the 32-bit JDK is needed for Eclipse or Spring, etc
 
 ## Additional configuration steps
@@ -115,7 +123,8 @@ I now use [Chocolatey](https://chocolatey.org/) to install most of my software o
 - [disable OneDrive](https://techjourney.net/disable-or-uninstall-onedrive-completely-in-windows-10/)
 - [remove homegroup](http://www.howtogeek.com/howto/27091/how-to-disable-or-enable-the-homegroup-feature-in-windows-7/) - guide is for Windows 7 but also works on 10
 - [remove Windows 10 apps](http://www.howtogeek.com/224798/how-to-uninstall-windows-10s-built-in-apps-and-how-to-reinstall-them/)
-- combine labels on task bar
+- [alias dir to ls in cmd](http://stackoverflow.com/a/15043472)
+- [disable automatic updates](http://lifehacker.com/prevent-windows-10-from-automatically-restarting-your-p-1723647582)
 - set browser [homepage](https://github.com/madstanners/homepage)
 - remove bullshit tiles from the start menu
 - set Explorer++ as the default file manager
