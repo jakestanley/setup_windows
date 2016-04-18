@@ -126,6 +126,7 @@ I now use [Chocolatey](https://chocolatey.org/) to install most of my software o
 - [alias dir to ls in cmd](http://stackoverflow.com/a/15043472)
 - [disable automatic updates](http://lifehacker.com/prevent-windows-10-from-automatically-restarting-your-p-1723647582)
 - set browser [homepage](https://github.com/madstanners/homepage)
+- configure Chrome Remote Desktop
 - remove bullshit tiles from the start menu
 - set Explorer++ as the default file manager
 - You might need to reinstall the sublime package control chocolatey package at this point
