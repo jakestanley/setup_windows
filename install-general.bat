@@ -43,4 +43,5 @@ conemu ^
 clink ^
 lightshot ^
 autohotkey ^
+sourcecodepro ^
 -y
