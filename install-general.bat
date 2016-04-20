@@ -45,4 +45,5 @@ lightshot ^
 autohotkey ^
 sourcecodepro ^
 figlet-go ^
+switcheroo ^
 -y
