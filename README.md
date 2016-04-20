@@ -89,6 +89,9 @@ I now use [Chocolatey](https://chocolatey.org/) to install most of my software o
 - lightshot - my new favourite screenshot program. // TODO phase out gyazo
 - autohotkey - for macros and disabling caps lock // TODO look into automating more stuff
 - ccleaner - keeps things clean
+- sourcecodepro - sexy ass font
+- figlet-go - port of figlet. works just like it does on linux
+- switcheroo - lean and mean app switcher
 
 ### install-home.bat
 - steam
@@ -114,8 +117,9 @@ I now use [Chocolatey](https://chocolatey.org/) to install most of my software o
 - ruby - for Sencha CMD)
 - eclipse - Chocolatey should install the appropriate architecture version
 - googledrive - I can just use my work Google account to keep files in sync
-- thunderbird - for doing emails (at work)
+- thunderbird - for doing emails at work. this should be replaced as it's crap.
 - tortoisesvn
+- ditto - clipboard manager
 - jdk (x86) - just in case the 32-bit JDK is needed for Eclipse or Spring, etc
 
 ## Additional configuration steps
@@ -127,6 +131,7 @@ I now use [Chocolatey](https://chocolatey.org/) to install most of my software o
 - [alias dir to ls in cmd](http://stackoverflow.com/a/15043472)
 - [disable automatic updates](http://lifehacker.com/prevent-windows-10-from-automatically-restarting-your-p-1723647582)
 - set browser [homepage](https://github.com/madstanners/homepage)
+- configure Chrome Remote Desktop
 - remove bullshit tiles from the start menu
 - set Explorer++ as the default file manager
 - You might need to reinstall the sublime package control chocolatey package at this point

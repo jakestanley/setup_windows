@@ -44,4 +44,7 @@ clink ^
 lightshot ^
 autohotkey ^
 ccleaner ^
+sourcecodepro ^
+figlet-go ^
+switcheroo ^
 -y
