@@ -44,4 +44,5 @@ clink ^
 lightshot ^
 autohotkey ^
 sourcecodepro ^
+figlet-go ^
 -y

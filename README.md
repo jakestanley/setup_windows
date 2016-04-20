@@ -89,6 +89,7 @@ I now use [Chocolatey](https://chocolatey.org/) to install most of my software o
 - lightshot - my new favourite screenshot program. // TODO phase out gyazo
 - autohotkey - for macros and disabling caps lock // TODO look into automating more stuff
 - sourcecodepro - sexy ass font
+- figlet-go - port of figlet. works just like it does on linux
 
 ### install-home.bat
 - steam
