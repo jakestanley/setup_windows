@@ -145,7 +145,13 @@ I now use [Chocolatey](https://chocolatey.org/) to install most of my software o
 - Install manual software
 - Set Steam libraries
 
-###Partitioning drives
+### Uninstalling Windows 10 apps
+
+Remove more bullshit.
+
+```Get-AppxPackage *zunevideo* | Remove-AppxPackage```
+
+### Partitioning drives
 
 I've had numerous problems with Windows in the past and I now try to keep the OS partition containing as little user created data as possible, to reduce the amount of faff when I inevitably reinstall. The following partition scheme is what I aim to use.
 - 100GB (minimum) operating system and applications drive. consider using this for games too, as they can be redownloaded
