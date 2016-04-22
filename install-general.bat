@@ -47,4 +47,6 @@ ccleaner ^
 sourcecodepro ^
 figlet-go ^
 switcheroo ^
+yumi ^
+partitionassistant ^
 -y

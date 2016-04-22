@@ -92,6 +92,8 @@ I now use [Chocolatey](https://chocolatey.org/) to install most of my software o
 - sourcecodepro - sexy ass font
 - figlet-go - port of figlet. works just like it does on linux
 - switcheroo - lean and mean app switcher
+- yumi - for creating linux boot USBs
+- partitionassistant - aomei partition assistant. great tool for managing partitions
 
 ### install-home.bat
 - steam
