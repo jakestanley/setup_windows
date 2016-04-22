@@ -1,6 +1,7 @@
 choco install ^
 tomcat ^
 mysql ^
+mysql.utilities ^
 mysql.workbench ^
 heidisql ^
 svn ^

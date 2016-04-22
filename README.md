@@ -114,9 +114,10 @@ I now use [Chocolatey](https://chocolatey.org/) to install most of my software o
 - mysql
 - mysql.utilities
 - mysql.workbench
-- slack
+- heidisql
 - svn
-- ruby - for Sencha CMD)
+- slack
+- ruby - for Sencha CMD
 - eclipse - Chocolatey should install the appropriate architecture version
 - googledrive - I can just use my work Google account to keep files in sync
 - thunderbird - for doing emails at work. this should be replaced as it's crap.
