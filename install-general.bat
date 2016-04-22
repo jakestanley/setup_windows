@@ -35,7 +35,7 @@ btsync ^
 winmerge ^
 pandoc ^
 nodejs ^
-explorerplusplus ^
+multicommander ^
 cccp ^
 mpc-hc ^
 winrar ^

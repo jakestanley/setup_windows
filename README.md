@@ -80,7 +80,7 @@ I now use [Chocolatey](https://chocolatey.org/) to install most of my software o
 - winmerge
 - pandoc
 - nodejs
-- explorerplusplus
+- multicommander - explorer replacement. tried explorerplusplus, but had issues with it on Windows 10
 - cyg-get - package manager for cygwin
 - poshgit - fancy git command line thingy
 - winrar - because it's good for those split rar files
