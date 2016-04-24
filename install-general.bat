@@ -50,4 +50,6 @@ switcheroo ^
 yumi ^
 partitionassistant ^
 classic-shell ^
+listary ^
+clover ^
 -y

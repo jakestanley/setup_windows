@@ -95,6 +95,8 @@ I now use [Chocolatey](https://chocolatey.org/) to install most of my software o
 - yumi - for creating linux boot USBs
 - partitionassistant - aomei partition assistant. great tool for managing partitions
 - classic-shell - fantastic replacement for the godawful windows 8 and beyond "start menu"
+- listary - adds powerful searching features. Ctrl+G is super useful
+- clover - adds chrome style tabbing to the default file explorer
 
 ### install-home.bat
 - steam
@@ -109,6 +111,7 @@ I now use [Chocolatey](https://chocolatey.org/) to install most of my software o
 - youtube-dl
 - goggalaxy - Steam-like client for Good Old Games
 - obs - open broadcaster software
+- reaper - decent, modern digital audio workstation for windows
 
 ### install-work.bat // TODO update
 - tomcat

@@ -10,4 +10,5 @@ youtube-dl ^
 dropbox ^
 goggalaxy ^
 obs ^
+reaper ^
 -y
