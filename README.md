@@ -136,7 +136,7 @@ I now use [Chocolatey](https://chocolatey.org/) to install most of my software o
 - set browser [homepage](https://github.com/madstanners/homepage)
 - configure Chrome Remote Desktop
 - remove bullshit tiles from the start menu
-- set Explorer++ as the default file manager
+- set file manager/shell
 - You might need to reinstall the sublime package control chocolatey package at this point
 - Partition drives (see below)
 - Set up FileHistory on separate drive and restore data if necessary
