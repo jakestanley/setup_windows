@@ -94,6 +94,7 @@ I now use [Chocolatey](https://chocolatey.org/) to install most of my software o
 - switcheroo - lean and mean app switcher
 - yumi - for creating linux boot USBs
 - partitionassistant - aomei partition assistant. great tool for managing partitions
+- classic-shell - fantastic replacement for the godawful windows 8 and beyond "start menu"
 
 ### install-home.bat
 - steam

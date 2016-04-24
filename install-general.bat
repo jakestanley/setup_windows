@@ -49,4 +49,5 @@ figlet-go ^
 switcheroo ^
 yumi ^
 partitionassistant ^
+classic-shell ^
 -y
