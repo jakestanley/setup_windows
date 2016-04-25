@@ -72,7 +72,6 @@ I now use [Chocolatey](https://chocolatey.org/) to install most of my software o
 - adobeair
 - python - *temporarily removed. should be replaced with python2 when that decides to work*
 - 1password
-- gyazo
 - f.lux
 - deluge - torrents
 - cygwin
@@ -112,6 +111,7 @@ I now use [Chocolatey](https://chocolatey.org/) to install most of my software o
 - goggalaxy - Steam-like client for Good Old Games
 - obs - open broadcaster software
 - reaper - decent, modern digital audio workstation for windows
+- gyazo - relegated to home as it's wank
 
 ### install-work.bat // TODO update
 - tomcat

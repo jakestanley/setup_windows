@@ -26,7 +26,6 @@ adobeshockwaveplayer ^
 virtualbox ^
 adobeair ^
 1password ^
-gyazo ^
 f.lux ^
 deluge ^
 cygwin ^
