@@ -51,4 +51,5 @@ partitionassistant ^
 classic-shell ^
 listary ^
 clover ^
+rainmeter ^
 -y

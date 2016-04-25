@@ -96,6 +96,7 @@ I now use [Chocolatey](https://chocolatey.org/) to install most of my software o
 - classic-shell - fantastic replacement for the godawful windows 8 and beyond "start menu"
 - listary - adds powerful searching features. Win+F to launch, Ctrl+G to go to last open folder in a file manager context 
 - clover - adds chrome style tabbing to the default file explorer
+- rainmeter - because it's sexy
 
 ### install-home.bat
 - steam
