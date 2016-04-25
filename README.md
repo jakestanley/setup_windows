@@ -94,7 +94,7 @@ I now use [Chocolatey](https://chocolatey.org/) to install most of my software o
 - yumi - for creating linux boot USBs
 - partitionassistant - aomei partition assistant. great tool for managing partitions
 - classic-shell - fantastic replacement for the godawful windows 8 and beyond "start menu"
-- listary - adds powerful searching features. Ctrl+G is super useful
+- listary - adds powerful searching features. Win+F to launch, Ctrl+G to go to last open folder in a file manager context 
 - clover - adds chrome style tabbing to the default file explorer
 
 ### install-home.bat
