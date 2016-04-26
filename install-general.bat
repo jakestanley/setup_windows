@@ -52,4 +52,5 @@ classic-shell ^
 listary ^
 clover ^
 rainmeter ^
+colormania ^
 -y

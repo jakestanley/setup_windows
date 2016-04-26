@@ -96,7 +96,8 @@ I now use [Chocolatey](https://chocolatey.org/) to install most of my software o
 - classic-shell - fantastic replacement for the godawful windows 8 and beyond "start menu"
 - listary - adds powerful searching features. Win+F to launch, Ctrl+G to go to last open folder in a file manager context 
 - clover - adds chrome style tabbing to the default file explorer
-- rainmeter - because it's sexy
+- rainmeter - because it's sexy. rice rice baby.
+- colormania - colour picker
 
 ### install-home.bat
 - steam
@@ -152,6 +153,7 @@ I now use [Chocolatey](https://chocolatey.org/) to install most of my software o
 - Configure VPN profile for work (if applicable)
 - Install manual software
 - Set Steam libraries
+- [hide unnecessary system tray icons](http://www.tekrevue.com/tip/remove-clock-windows-10-taskbar/)
 
 ### Uninstalling Windows 10 apps
 
