@@ -24,6 +24,7 @@ These applications need to be installed manually as they are not available or ar
 - [iTunes](http://itunes.com/) for use at home because that's where I sync my iThings *rms term used ironically*
 - [Spotify](https://www.spotify.com/download/)
 - [Toggl](https://support.toggl.com/toggl-desktop-for-windows/) - for keeping track of my time spent on projects
+- [DesktopCoral](https://www.donationcoder.com/Software/Mouser/desktopcoral/) - for reserving desktop space for stuff like Rainmeter when you maximise windows
 
 #### Python/Python2/PIP
 "pip is already installed if you're using Python 2 >=2.7.9 or Python 3 >=3.4 downloaded from [python.org](http://python.org/), but you'll need to upgrade pip" - https://pip.pypa.io/en/stable/installing/
