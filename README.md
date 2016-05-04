@@ -23,6 +23,7 @@ These applications need to be installed manually as they are not available or ar
 - [Magicdisc](http://www.magiciso.com/tutorials/miso-magicdisc-overview.htm) as the Chocolatey package currently doesn't work. It doesn't install the driver or something
 - [Spotify](https://www.spotify.com/download/)
 - [Toggl](https://support.toggl.com/toggl-desktop-for-windows/) - for keeping track of my time spent on projects
+- [DesktopCoral](https://www.donationcoder.com/Software/Mouser/desktopcoral/) - for reserving desktop space for stuff like Rainmeter when you maximise windows
 
 #### Python/Python2/PIP
 "pip is already installed if you're using Python 2 >=2.7.9 or Python 3 >=3.4 downloaded from [python.org](http://python.org/), but you'll need to upgrade pip" - https://pip.pypa.io/en/stable/installing/
@@ -95,7 +96,8 @@ I now use [Chocolatey](https://chocolatey.org/) to install most of my software o
 - classic-shell - fantastic replacement for the godawful windows 8 and beyond "start menu"
 - listary - adds powerful searching features. Win+F to launch, Ctrl+G to go to last open folder in a file manager context 
 - clover - adds chrome style tabbing to the default file explorer
-- rainmeter - because it's sexy
+- rainmeter - because it's sexy. rice rice baby.
+- colormania - colour picker
 - itunes
 
 ### install-home.bat
@@ -152,6 +154,7 @@ I now use [Chocolatey](https://chocolatey.org/) to install most of my software o
 - Configure VPN profile for work (if applicable)
 - Install manual software
 - Set Steam libraries
+- [hide unnecessary system tray icons](http://www.tekrevue.com/tip/remove-clock-windows-10-taskbar/)
 
 ### Uninstalling Windows 10 apps
 
