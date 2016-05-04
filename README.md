@@ -21,7 +21,6 @@ These applications need to be installed manually as they are not available or ar
 - [Chocolatey](https://chocolatey.org/) for nearly painless package management. i advise you install this first, then run the scripts, then install the other manual stuff.
 - [Notation](http://getnotation.com/) for synchronising notes with Simplenote
 - [Magicdisc](http://www.magiciso.com/tutorials/miso-magicdisc-overview.htm) as the Chocolatey package currently doesn't work. It doesn't install the driver or something
-- [iTunes](http://itunes.com/) for use at home because that's where I sync my iThings *rms term used ironically*
 - [Spotify](https://www.spotify.com/download/)
 - [Toggl](https://support.toggl.com/toggl-desktop-for-windows/) - for keeping track of my time spent on projects
 
@@ -97,6 +96,7 @@ I now use [Chocolatey](https://chocolatey.org/) to install most of my software o
 - listary - adds powerful searching features. Win+F to launch, Ctrl+G to go to last open folder in a file manager context 
 - clover - adds chrome style tabbing to the default file explorer
 - rainmeter - because it's sexy
+- itunes
 
 ### install-home.bat
 - steam
