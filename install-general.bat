@@ -54,4 +54,5 @@ clover ^
 rainmeter ^
 colormania ^
 itunes ^
+spotify ^
 -y

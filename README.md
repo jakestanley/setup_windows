@@ -21,7 +21,6 @@ These applications need to be installed manually as they are not available or ar
 - [Chocolatey](https://chocolatey.org/) for nearly painless package management. i advise you install this first, then run the scripts, then install the other manual stuff.
 - [Notation](http://getnotation.com/) for synchronising notes with Simplenote
 - [Magicdisc](http://www.magiciso.com/tutorials/miso-magicdisc-overview.htm) as the Chocolatey package currently doesn't work. It doesn't install the driver or something
-- [Spotify](https://www.spotify.com/download/)
 - [Toggl](https://support.toggl.com/toggl-desktop-for-windows/) - for keeping track of my time spent on projects
 - [DesktopCoral](https://www.donationcoder.com/Software/Mouser/desktopcoral/) - for reserving desktop space for stuff like Rainmeter when you maximise windows
 
@@ -99,6 +98,7 @@ I now use [Chocolatey](https://chocolatey.org/) to install most of my software o
 - rainmeter - because it's sexy. rice rice baby.
 - colormania - colour picker
 - itunes
+- spotify
 
 ### install-home.bat
 - steam
