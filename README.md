@@ -99,6 +99,7 @@ I now use [Chocolatey](https://chocolatey.org/) to install most of my software o
 - colormania - colour picker
 - itunes
 - spotify
+- ditto - clipboard manager
 
 ### install-home.bat
 - steam
@@ -129,7 +130,6 @@ I now use [Chocolatey](https://chocolatey.org/) to install most of my software o
 - googledrive - I can just use my work Google account to keep files in sync
 - thunderbird - for doing emails at work. this should be replaced as it's crap.
 - tortoisesvn
-- ditto - clipboard manager
 - jdk (x86) - just in case the 32-bit JDK is needed for Eclipse or Spring, etc
 
 ## Additional configuration steps

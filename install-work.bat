@@ -11,7 +11,6 @@ eclipse ^
 googledrive ^
 thunderbird ^
 tortoisesvn ^
-ditto ^
 -y
 
 :: installs the current 32-bit JDK as well

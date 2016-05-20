@@ -55,4 +55,5 @@ rainmeter ^
 colormania ^
 itunes ^
 spotify ^
+ditto ^
 -y
