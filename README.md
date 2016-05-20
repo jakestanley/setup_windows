@@ -62,7 +62,6 @@ I now use [Chocolatey](https://chocolatey.org/) to install most of my software o
 - vim
 - git - obviously
 - putty
-- libreoffice
 - dotnet4.5
 - adobereader
 - adobeshockwaveplayer - another dated web technology

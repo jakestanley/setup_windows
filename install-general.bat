@@ -20,7 +20,6 @@ vim ^
 git ^
 poshgit ^
 putty ^
-libreoffice ^
 dotnet4.5 ^
 adobeshockwaveplayer ^
 virtualbox ^
