@@ -11,5 +11,5 @@ dropbox ^
 goggalaxy ^
 obs ^
 reaper ^
-gyazo ^
+evernote ^
 -y
