@@ -33,7 +33,6 @@ btsync ^
 winmerge ^
 pandoc ^
 nodejs ^
-multicommander ^
 cccp ^
 mpc-hc ^
 winrar ^
@@ -55,4 +54,5 @@ colormania ^
 itunes ^
 spotify ^
 ditto ^
+dropbox ^
 -y

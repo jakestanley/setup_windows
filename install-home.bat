@@ -7,7 +7,6 @@ teamspeak ^
 mumble ^
 unity ^
 youtube-dl ^
-dropbox ^
 goggalaxy ^
 obs ^
 reaper ^

@@ -77,7 +77,6 @@ I now use [Chocolatey](https://chocolatey.org/) to install most of my software o
 - winmerge
 - pandoc
 - nodejs
-- multicommander - explorer replacement. tried explorerplusplus, but had issues with it on Windows 10
 - cyg-get - package manager for cygwin
 - poshgit - fancy git command line thingy
 - winrar - because it's good for those split rar files
@@ -100,7 +99,7 @@ I now use [Chocolatey](https://chocolatey.org/) to install most of my software o
 - spotify
 - ditto - clipboard manager
 
-### install-home.bat
+### install-home.bat // TODO update
 - steam
 - cccp
 - mpc-hc
