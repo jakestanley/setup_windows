@@ -98,6 +98,7 @@ I now use [Chocolatey](https://chocolatey.org/) to install most of my software o
 - itunes
 - spotify
 - ditto - clipboard manager
+- shexview - for managing annoying shell extensions
 
 ### install-home.bat // TODO update
 - steam
@@ -126,7 +127,6 @@ I now use [Chocolatey](https://chocolatey.org/) to install most of my software o
 - ruby - for Sencha CMD
 - eclipse - Chocolatey should install the appropriate architecture version
 - googledrive - I can just use my work Google account to keep files in sync
-- thunderbird - for doing emails at work. this should be replaced as it's crap.
 - tortoisesvn
 - jdk (x86) - just in case the 32-bit JDK is needed for Eclipse or Spring, etc
 

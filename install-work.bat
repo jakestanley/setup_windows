@@ -9,7 +9,6 @@ slack ^
 ruby ^
 eclipse ^
 googledrive ^
-thunderbird ^
 tortoisesvn ^
 -y
 

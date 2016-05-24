@@ -55,4 +55,5 @@ itunes ^
 spotify ^
 ditto ^
 dropbox ^
+shexview ^
 -y
