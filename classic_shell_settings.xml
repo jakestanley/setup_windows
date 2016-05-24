@@ -1,12 +1,13 @@
 <?xml version="1.0"?>
 <Settings component="StartMenu" version="4.2.5">
-	<WinKey value="Nothing"/>
-	<ShiftWin value="ClassicMenu"/>
-	<ProgramsStyle value="Cascade"/>
+	<WinKey value="ClassicMenu"/>
+	<ShiftWin value="Nothing"/>
+	<ProgramsStyle value="Inline"/>
 	<ShutdownCommand value="CommandSleep"/>
+	<MenuShadow value="0"/>
 	<SkinW7 value="Metro"/>
 	<SkinVariationW7 value=""/>
-	<SkinOptionsW7 value="C26EAF5D|5D3248DC|1FC64124|33C166BF|6EDFA36A|"/>
+	<SkinOptionsW7 value="C26EAF5D|5D3248DD|1FC64124|33C166BE|6EDFA36B|"/>
 	<EnableStartButton value="0"/>
 	<StartButtonType value="CustomButton"/>
 	<SkipMetro value="1"/>
