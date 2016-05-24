@@ -115,6 +115,8 @@ I now use [Chocolatey](https://chocolatey.org/) to install most of my software o
 - obs - open broadcaster software
 - reaper - decent, modern digital audio workstation for windows
 - evernote
+- winauth - essentially authy for windows
+- battle.net - for starcraft 2, really.
 
 ### install-work.bat // TODO update
 - tomcat

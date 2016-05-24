@@ -11,4 +11,6 @@ goggalaxy ^
 obs ^
 reaper ^
 evernote ^
+winauth ^
+battle.net ^
 -y
