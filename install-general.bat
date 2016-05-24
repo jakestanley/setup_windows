@@ -55,5 +55,7 @@ itunes ^
 spotify ^
 ditto ^
 dropbox ^
+shmnview ^
 shexview ^
+sysinternals ^
 -y

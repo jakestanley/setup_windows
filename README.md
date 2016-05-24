@@ -98,7 +98,9 @@ I now use [Chocolatey](https://chocolatey.org/) to install most of my software o
 - itunes
 - spotify
 - ditto - clipboard manager
+- shmnview - for managing annoying shell extensions (run from command line as `shmnview`). this looks good.
 - shexview - for managing annoying shell extensions
+- sysinternals - suite of system tools. "Autoruns.exe" does some stuff that shellexview can't
 
 ### install-home.bat // TODO update
 - steam
