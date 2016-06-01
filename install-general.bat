@@ -59,4 +59,5 @@ shmnview ^
 shexview ^
 sysinternals ^
 imagemagick ^
+rocketdock ^
 -y

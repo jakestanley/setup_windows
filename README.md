@@ -42,7 +42,7 @@ These applications need to be installed manually as they are not available or ar
 ## Packages
 I now use [Chocolatey](https://chocolatey.org/) to install most of my software on Windows. There are three scripts in this repository for installing environment pertinent software packages.
 
-### install-general.bat // TODO update
+### install-general.bat
 - less
 - googlechrome - default browser
 - maven - java dependency management
@@ -102,8 +102,9 @@ I now use [Chocolatey](https://chocolatey.org/) to install most of my software o
 - shexview - for managing annoying shell extensions
 - sysinternals - suite of system tools. "Autoruns.exe" does some stuff that shellexview can't
 - imagemagick - because it does awesome stuff with images
+- rocketdock
 
-### install-home.bat // TODO update
+### install-home.bat
 - steam
 - cccp
 - mpc-hc
@@ -121,7 +122,7 @@ I now use [Chocolatey](https://chocolatey.org/) to install most of my software o
 - winauth - essentially authy for windows
 - battle.net - for starcraft 2, really.
 
-### install-work.bat // TODO update
+### install-work.bat
 - tomcat
 - mysql
 - mysql.utilities
