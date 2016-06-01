@@ -58,4 +58,5 @@ dropbox ^
 shmnview ^
 shexview ^
 sysinternals ^
+imagemagick ^
 -y

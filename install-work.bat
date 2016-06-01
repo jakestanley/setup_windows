@@ -10,6 +10,7 @@ ruby ^
 eclipse ^
 googledrive ^
 tortoisesvn ^
+pycharm-community ^
 -y
 
 :: installs the current 32-bit JDK as well

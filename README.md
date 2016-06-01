@@ -101,6 +101,7 @@ I now use [Chocolatey](https://chocolatey.org/) to install most of my software o
 - shmnview - for managing annoying shell extensions (run from command line as `shmnview`). this looks good.
 - shexview - for managing annoying shell extensions
 - sysinternals - suite of system tools. "Autoruns.exe" does some stuff that shellexview can't
+- imagemagick - because it does awesome stuff with images
 
 ### install-home.bat // TODO update
 - steam
@@ -132,6 +133,7 @@ I now use [Chocolatey](https://chocolatey.org/) to install most of my software o
 - eclipse - Chocolatey should install the appropriate architecture version
 - googledrive - I can just use my work Google account to keep files in sync
 - tortoisesvn
+- pycharm-community - for python GUI debugging/dissecting
 - jdk (x86) - just in case the 32-bit JDK is needed for Eclipse or Spring, etc
 
 ## Additional configuration steps
