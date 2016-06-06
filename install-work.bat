@@ -11,6 +11,7 @@ eclipse ^
 googledrive ^
 tortoisesvn ^
 pycharm-community ^
+intellijidea-ultimate ^
 -y
 
 :: installs the current 32-bit JDK as well

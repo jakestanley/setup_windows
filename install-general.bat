@@ -15,7 +15,6 @@ firefox ^
 filezilla ^
 silverlight ^
 wget ^
-intellijidea-community ^
 vim ^
 git ^
 poshgit ^

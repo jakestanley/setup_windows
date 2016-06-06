@@ -13,4 +13,5 @@ reaper ^
 evernote ^
 winauth ^
 battle.net ^
+intellijidea-community ^
 -y

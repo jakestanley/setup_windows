@@ -58,7 +58,6 @@ I now use [Chocolatey](https://chocolatey.org/) to install most of my software o
 - filezilla
 - silverlight
 - wget
-- intellijidea-community - i am so happy that there is a package for this
 - vim
 - git - obviously
 - putty
@@ -121,6 +120,7 @@ I now use [Chocolatey](https://chocolatey.org/) to install most of my software o
 - evernote
 - winauth - essentially authy for windows
 - battle.net - for starcraft 2, really.
+- intellijidea-community
 
 ### install-work.bat
 - tomcat
@@ -135,6 +135,7 @@ I now use [Chocolatey](https://chocolatey.org/) to install most of my software o
 - googledrive - I can just use my work Google account to keep files in sync
 - tortoisesvn
 - pycharm-community - for python GUI debugging/dissecting
+- intellijidea-ultimate
 - jdk (x86) - just in case the 32-bit JDK is needed for Eclipse or Spring, etc
 
 ## Additional configuration steps
@@ -160,6 +161,7 @@ I now use [Chocolatey](https://chocolatey.org/) to install most of my software o
 - Install manual software
 - Set Steam libraries
 - [hide unnecessary system tray icons](http://www.tekrevue.com/tip/remove-clock-windows-10-taskbar/)
+- install graphics drivers. `choco install geforce-game-ready-driver` for nvidia GPUs
 
 ### Uninstalling Windows 10 apps
 
