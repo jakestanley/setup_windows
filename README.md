@@ -102,6 +102,9 @@ I now use [Chocolatey](https://chocolatey.org/) to install most of my software o
 - imagemagick - because it does awesome stuff with images
 - rocketdock
 
+### install-vps.bat
+Pretty much the same as `install-general.bat`, except that AOMEI Partition Assistant and VirtualBox are missing.
+
 ### install-home.bat
 - steam
 - cccp
