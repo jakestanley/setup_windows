@@ -49,7 +49,6 @@ I now use [Chocolatey](https://chocolatey.org/) to install most of my software o
 - jdk - will install the x86 or x64 version depending on your platform
 - sublimetext3
 - sublimetext3.packagecontrol
-- atom - open source text editor from Github
 - ubuntu.font - Ubuntu font family package for use in Sublime Text
 - flashplayerplugin - to make it slightly easier to browse shitty parts of the internet
 - 7zip

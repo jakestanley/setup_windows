@@ -5,7 +5,6 @@ maven ^
 jdk ^
 sublimetext3 ^
 sublimetext3.packagecontrol ^
-atom ^
 ubuntu.font ^
 adobereader ^
 flashplayerplugin ^
