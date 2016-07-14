@@ -100,7 +100,9 @@ I now use [Chocolatey](https://chocolatey.org/) to install most of my software o
 - shexview - for managing annoying shell extensions
 - sysinternals - suite of system tools. "Autoruns.exe" does some stuff that shellexview can't
 - imagemagick - because it does awesome stuff with images
-- rocketdock
+- seer - macOS/OS X spacebar preview style functionality on Windows
+- phraseexpress - tab text expansion based on user defined snippets. need to sync settings and phrase file
+- hostsman - system level domain blocking manager
 
 ### install-vps.bat
 Pretty much the same as `install-general.bat`, except that AOMEI Partition Assistant and VirtualBox are missing.

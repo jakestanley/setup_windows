@@ -57,5 +57,7 @@ shmnview ^
 shexview ^
 sysinternals ^
 imagemagick ^
-rocketdock ^
+seer ^
+phraseexpress ^
+hostsman ^
 -y
